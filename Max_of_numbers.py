@@ -10,3 +10,4 @@ def max(a,b,c):
     return largest
 print(max(a=10,b=50,c=70))
 
+
